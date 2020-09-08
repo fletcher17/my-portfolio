@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Olufemi Ezekiel",
+    "occupation": "ReactJS Developer",
+    "description": "Front-End React Developer by Day, Lover of Firebase. #fletcher",
+    "image": "Femi.JPG",
+    "bio": "My name is Olufemi, you can call me Femi, I'm a ReactJS Developer. Currently I'm working on my own but looking to join a team of React Developers ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "ezekielolufemi09@gmail.com",
+    "phone": "+234 8134742336",
+    "address": {
+      "street": "Abraham Adesanya, Ajah, Lagos",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": "110001"
+    },
+    "website": "http://",
+    "resumedownload": "http://",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/oluphemywb",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ezekiel-olufemi-670a46143/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/flecther17/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/fletcher17",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm efficient in the following but not limited to",
+    "education": [
+      {
+        "school": "Zero to Mastery",
+        "degree": "Complete React Developer",
+        "graduated": "January 2020",
+        "description": "Completed"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zero to Mastery",
+        "title": "Team Member && React Developer",
+        "years": "January 2020 - Present",
+        "description": "Front-End Developer"
+      },
+      {
+        "company": "Greenswealth",
+        "title": "Digital Marketer",
+        "years": "Dec 2019 - March 2020",
+        "description": "Updating the Company's website and Social Media pages"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Heroku",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon-clone",
+        "category": "Amazon Clone built with ReactJs (MaterialUI, React Context API, ReactJS, NodeJS)",
+        "image": "Amazon.png",
+        "url": "https://clone-f1c85.web.app/"
+      },
+      {
+        "title": "Covid19-Tracker",
+        "category": "Covid19 Tracker built with ReactJS (ChartJS, Leaflet Map, Disease.sh ReactJS)",
+        "image": "covid19tracker.PNG",
+        "url": "https://covid19-tracker-90801.web.app/"
+      },
+      {
+        "title": "ROBOFRIENDS",
+        "category": "Robofriends built with ReactJS",
+        "image": "robofriends.PNG",
+        "url": "https://fletcher17.github.io/robots/"
+      },
+      {
+        "title": "Face Recognition App",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facerecognition.PNG",
+        "url": "http://face17.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You are doing Amazing work and improving really fast",
+        "user": "Gbenga Adebowale"
+      }
+    ]
+  }
+}
